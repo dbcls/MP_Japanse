@@ -15,6 +15,8 @@
 - Machine translation was first performed, followed by manual curation. Experts were involved in supervising the genetics and medical terminology. We published two types of data: data after manual curation and data confirmed by experts. The files are provided in TSV, Excel, and ttl.
 
 ## Information
+- [第66回日本先天異常学会学術集会](https://jts66.jp/)においてポスター発表を行います。
+  - 2026年7月25日（土）「表現型・疾患オントロジーとライフサイエンス辞書の統合的日本語整備」
 - [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行いました。
   - 2025年10月20日（月）34番 第1部　「表現型オントロジー（Mondo/MP）の日本語化による国際連携と活用」
 - [IIBMP2025](https://www.jsbi.org/iibmp2025/)においてポスター発表を行いました。
@@ -27,7 +29,7 @@
   - 2024年5月29日（水）o-32 「Mammalian phenotype ontology(MP)の日本語訳の作成について」
 
 ## Up date
-- 2026/05/08 Use-caseに2026/4のデータを追加しました。
+- 2026/07/15 Use-caseに2026/4のデータを追加しました。
 - 2026/01/09 約130Termについて新規日本語訳をExpert versionに追加しました
 - 2025/05/07 約90Termについて新規日本語訳をExpert versionに追加しました。先天異常学会用語委員会の協力により、翻訳語彙の一部見直しを実施しました。
 - 2024/10/16 約140Termについて新規日本語訳をExpert versionに追加しました。
@@ -51,6 +53,9 @@
 - Tatsuya Kushida(RIKEN BRC)
 - Hiroshi Masuya(RIKEN BRC)
 - Eisuke Dohi(NCNP)
+
+## Reference
+- Takatsuki T, Bello SM, Kushida T, Dohi E, Yoshiki A, Fujiwara T, Goto S, Masuya H. Development and Dissemination of the Japanese Translation of the Mammalian Phenotype Ontology as an Open Resource. Congenit Anom (Kyoto). 2026 Jan-Dec;66(1):e70070. doi: 10.1002/cga.70070. PMID: 42396930
 
 ## Special thanks
 - 日本先天異常学会　用語委員会の皆様
